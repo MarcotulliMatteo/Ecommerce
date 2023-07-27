@@ -1,0 +1,39 @@
+.cart-item-container {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    border-bottom: 1px solid gray;
+    padding: 30px 0px;
+}
+
+.quantity-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.quantity-button-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quantity-button {
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.quantity-button:hover {
+    color: blueviolet;
+}
+
+.button-text {
+    color: blue;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.button-text:hover {
+    color: black;
+}

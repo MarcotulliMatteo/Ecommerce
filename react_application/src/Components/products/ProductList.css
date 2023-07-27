@@ -1,0 +1,13 @@
+.product-list {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+    gap: 1vw;
+    padding: 20px;
+    align-items: center;
+}
+
+.product-list-title {
+    padding-bottom: 10px;
+    font-weight: bold;
+}

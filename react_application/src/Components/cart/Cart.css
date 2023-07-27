@@ -1,0 +1,25 @@
+.cart {
+    padding: 5vh 5vw;
+    color: black;
+    display: flex;
+    flex-direction: column;
+}
+
+.cart-product-container {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 0px 30px;
+}
+
+.title-container {
+    display: flex;
+    width: 100%;
+    border-bottom: 1px solid gray;
+}
+
+.total-price-container {
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+}
