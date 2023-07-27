@@ -1,6 +1,6 @@
 # Ecommerce
 
-Application developed in Node.js Express and React.js using Redux and Redux Thunk.
+Application developed in Node.js Express and React.js using Redux and Redux Thunk with Typescript template.
 
 This applications has been developed for a challenge in 1 day.
 
